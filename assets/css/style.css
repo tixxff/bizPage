@@ -343,6 +343,22 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
   position: relative;
 }
+#start {
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 32px;
+  border-radius: 50px;
+  transition: 0.5s;
+  color: #fff;
+  background: #18d26e;
+}
+
+#start:hover {
+  background: #fff;
+  color: #18d26e;
+}
 @media (max-height: 500px) {
   #hero {
     height: 150vh;
@@ -553,6 +569,7 @@ section {
 --------------------------------*/
 #featured-services {
   background: #000;
+  text-align: center;
 }
 #featured-services .box {
   padding: 30px 20px;
