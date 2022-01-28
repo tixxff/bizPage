@@ -568,7 +568,7 @@ section {
 # Features
 --------------------------------------------------------------*/
 .features .icon-box h2 {
-  font-size: 40px;
+  font-size: 45px;
   font-weight: 700;
   margin: 5px 0 0px 60px;
   padding: 30px;
@@ -580,7 +580,7 @@ section {
   color: #009961;
 }
 .features .icon-box p {
-  font-size: 20px;
+  font-size: 17px;
   color: #848484;
   /* margin-left: 60px; */
   margin: 0 0 10px 85px;
@@ -588,7 +588,7 @@ section {
 }
 
 #detail {
-  font-size: 18px;
+  font-size: 17px;
   color: #848484;
   /* margin-left: 60px; */
   margin: 0 0 10px 100px;
